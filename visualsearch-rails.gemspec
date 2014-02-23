@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "visualsearch-rails"
   s.version     = Visualsearch::VERSION
   s.authors     = ["Ekta Verma"]
-  s.date        = '2014-02-16'
+  s.date        = '2014-02-24'
   s.email       = ["eku4evr@gmail.com"]
   s.summary     = %q{Gem for a Rich Search Box for Real Data}
   s.description = %q{Gem that includes VisualSearch.js (VisualSearch.js enhances ordinary search boxes with the ability to autocomplete 
